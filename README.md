@@ -8,3 +8,4 @@ Une démo git qui se passe bien
 
 
 Et maintenant on modifie depuis GITHUB
+maintenant depuis ma machine local
